@@ -73,3 +73,5 @@ pkg
 # For rubinius:
 #*.rbc
 /nbproject/private/
+
+.rvmrc
